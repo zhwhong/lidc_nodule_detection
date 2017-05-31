@@ -1,0 +1,79 @@
+[
+ {
+  "rects": [
+   {
+    "y1": 168, 
+    "x2": 320, 
+    "x1": 289, 
+    "y2": 199
+   }
+  ], 
+  "image_path": "./lung_data/LIDC-IDRI-0103.dat_53_.bmp"
+ }, 
+ {
+  "rects": [
+   {
+    "y1": 142, 
+    "x2": 110, 
+    "x1": 78, 
+    "y2": 179
+   }
+  ], 
+  "image_path": "./lung_data/LIDC-IDRI-0150.dat_79_.bmp"
+ },
+ {
+  "rects": [
+   {
+    "y1": 76, 
+    "x2": 129, 
+    "x1": 97, 
+    "y2": 108
+   }
+  ], 
+  "image_path": "./lung_data/LIDC-IDRI-0150.dat_51_.bmp"
+ },
+  {
+  "rects": [
+   {
+    "y1": 114, 
+    "x2": 73, 
+    "x1": 41, 
+    "y2": 145
+   }
+  ], 
+  "image_path": "./lung_data/LIDC-IDRI-0619.dat_127_.bmp"
+ }, 
+  {
+  "rects": [
+   {
+    "y1": 116, 
+    "x2": 73, 
+    "x1": 41, 
+    "y2": 147
+   }
+  ], 
+  "image_path": "./lung_data/LIDC-IDRI-0619.dat_129_.bmp"
+ }, 
+  {
+  "rects": [
+   {
+    "y1": 116, 
+    "x2": 77, 
+    "x1": 45, 
+    "y2": 147
+   }
+  ], 
+  "image_path": "./lung_data/LIDC-IDRI-0619.dat_134_.bmp"
+ }, 
+  {
+  "rects": [
+   {
+    "y1": 116, 
+    "x2": 78, 
+    "x1": 47, 
+    "y2": 147
+   }
+  ], 
+  "image_path": "./lung_data/LIDC-IDRI-0619.dat_136_.bmp"
+ }
+]
