@@ -1,8 +1,6 @@
 # Introduction
 
-This is a simple framework for training neural networks to detect nodules in CT images. Training requires a json file (e.g. [here](https://github.com/zhwhong/lidc_nodule_detection/blob/master/CNN_LSTM/hypes/lstm_rezoom_lung.json)) containing a list of CT images and the bounding boxes in each image. The network combines both CNN model and LSTM network.
-
-The algorithm here is mainly refered to Paper [***End-to-end people detection in crowded scenes***](https://arxiv.org/abs/1506.04878).
+This is a simple framework for training neural networks to detect nodules in CT images. Training requires a json file (e.g. [here](https://github.com/zhwhong/lidc_nodule_detection/blob/master/CNN_LSTM/hypes/lstm_rezoom_lung.json)) containing a list of CT images and the bounding boxes in each image. The model combines both CNN model and LSTM unit. The algorithm here is mainly refered to paper [***End-to-end people detection in crowded scenes***](https://arxiv.org/abs/1506.04878).
 
 ![](images/detect.png)
 
@@ -117,7 +115,8 @@ First, [install TensorFlow from source or pip](https://www.tensorflow.org/versio
 ![confidence loss](images/loss1.png)
 ![regression loss](images/loss2.png)
 ![accuracy](images/accuracy.png)
-![](images/tensorboard.png)
+
+<p style="text-align:center;"><img src="images/tensorboard.png"  /></p>
 
 # Evaluation
 
@@ -129,12 +128,20 @@ There are two options for evaluation, an [ipython notebook](https://github.com/z
 
 - precision-recall curve
 
-![](images/test.png)
+<p style="text-align:center;"><img src="images/test.png"  /></p>
 
 # Other
 
-![](images/lung.png)
+- Anatomy map
+
+<p style="text-align:center;"><img src="images/lung.png"  /></p>
+
+- Parenchyma extraction
+
 ![](images/parenchyma.png)
+
+- Pulmonary nodules form
+
 ![](images/nodule.png)
 
 
