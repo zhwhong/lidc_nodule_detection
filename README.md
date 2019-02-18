@@ -9,7 +9,7 @@ About nodule classfication method based on CNN transfer learning, you can refer 
 
 # Dicom and XML parsing
 
-Parsing the lidc XML annotation and dicom files，see [pylung](https://github.com/zhwhong/lidc_nodule_detection/blob/master/pylung) and [this blog](http://zhwhong.ml/2017/03/27/LIDC-Dicom-data-and-XML-annotation-parse/).
+Parsing the lidc XML annotation and dicom files，see [pylung](https://github.com/zhwhong/lidc_nodule_detection/blob/master/pylung) and [this blog](http://zhwhong.cn/2017/03/27/LIDC-Dicom-data-and-XML-annotation-parse/).
 
 ```python
 >>> import dicom
@@ -151,8 +151,8 @@ There are two options for evaluation, an [ipython notebook](https://github.com/z
 - [Paper] [***End-to-end people detection in crowded scenes***](https://arxiv.org/abs/1506.04878)
 - [Paper] [***Deep Convolutional Neural Networks for Computer-Aided Detection: CNN Architectures, Dataset Characteristics and Transfer Learning***](https://arxiv.org/abs/1602.03409)
 - [Paper] [***An overview of classification algorithms for imbalanced datasets***](http://www.ijetae.com/files/Volume2Issue4/IJETAE_0412_07.pdf)
-- [Blog] [LIDC-IDRI肺结节公开数据集Dicom和XML标注详解](http://zhwhong.ml/2017/03/27/LIDC-Dicom-data-and-XML-annotation-parse/)
-- [Blog] [机器学习之分类性能度量指标 : ROC曲线、AUC值、正确率、召回率](http://zhwhong.ml/2017/04/14/ROC-AUC-Precision-Recall-analysis/)
+- [Blog] [LIDC-IDRI肺结节公开数据集Dicom和XML标注详解](http://zhwhong.cn/2017/03/27/LIDC-Dicom-data-and-XML-annotation-parse/)
+- [Blog] [机器学习之分类性能度量指标 : ROC曲线、AUC值、正确率、召回率](http://zhwhong.cn/2017/04/14/ROC-AUC-Precision-Recall-analysis/)
 - [简书] [LIDC-IDRI肺结节Dicom数据集解析与总结](http://www.jianshu.com/p/9c1facf70b01)
 - [简书] [LIDC-IDRI肺结节公开数据集Dicom和XML标注详解](http://www.jianshu.com/p/c4e9e18195eb)
 - [简书] [医疗CT影像肺结节检测参考项目(附论文)](http://www.jianshu.com/p/14df9c48453a)
